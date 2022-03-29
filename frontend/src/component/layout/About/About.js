@@ -12,9 +12,9 @@ const About = () => {
 
         <div>
           <div>
-            <Typography><h1>Team-3</h1></Typography>
+            <Typography><h1>Sairakesh</h1></Typography>
             <span>
-              This is a Ecommerce wesbite made by us where we can use this website to buy good products
+              This is a Ecommerce wesbite made by me where we can use this website to buy good products
             </span>
           </div>
           <div className="aboutSectionContainer2">
